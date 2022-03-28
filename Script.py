@@ -79,7 +79,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 Credits ›› <a href=https://t.me/WONDERMOVI><b>WONDERMOVI</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 乃ㄥ卂匚Ҝ卂ᗪ卂爪  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1.乃ㄥ卂匚Ҝ卂ᗪ卂爪 should have admin privillage.
