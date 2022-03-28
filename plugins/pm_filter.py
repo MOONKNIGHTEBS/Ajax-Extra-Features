@@ -681,8 +681,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+l_sDvY0hZ3QwMzc9'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/WONDERMOVI')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -769,35 +769,35 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="𝙾"
+            text="乃"
         )
         await query.message.edit_text(
-            text="𝙾𝙿"
+            text="乃ㄥ"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄"
+            text="乃ㄥ卂"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂"
+            text="乃ㄥ卂匚"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-"
+            text="乃ㄥ卂匚Ҝ-"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃"
+            text="乃ㄥ卂匚Ҝ-卂"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴"
+            text="乃ㄥ卂匚Ҝ-卂ᗪ"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲"
+            text="乃ㄥ卂匚Ҝ-卂ᗪ卂"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷"
+            text="乃ㄥ卂匚Ҝ-卂ᗪ卂爪"
         )
-        await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉"
-        )
+        
+            
+    
         await query.message.edit_text(                     
             text=script.HELP_TXT.format(query.from_user.mention),
             reply_markup=reply_markup,
@@ -805,41 +805,41 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://github.com/Aadhi000/Ajax')
+            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://telegra.ph/file/941f7b63757d7ef87ad6e.mp4')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="𝙾"
+            text="乃"
         )
         await query.message.edit_text(
-            text="𝙾𝙿"
+            text="乃ㄥ"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄"
+            text="乃ㄥ卂"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂"
+            text="乃ㄥ卂匚"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-"
+            text="乃ㄥ卂匚Ҝ"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃"
+            text="乃ㄥ卂匚Ҝ-"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴"
+            text="乃ㄥ卂匚Ҝ-卂"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲"
+            text="乃ㄥ卂匚Ҝ-卂ᗪ"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷"
+            text="乃ㄥ卂匚Ҝ-卂ᗪ卂"
         )
         await query.message.edit_text(
-            text="𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉"
+            text="乃ㄥ卂匚Ҝ-卂ᗪ卂爪"
         )
         await query.message.edit_text(
             text=script.ABOUT_TXT,
