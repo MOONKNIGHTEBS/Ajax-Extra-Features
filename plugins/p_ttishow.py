@@ -41,7 +41,7 @@ async def save_group(bot, message):
                 InlineKeyboardButton('⚡ HΞLᎮ ⚡', url=f"https://t.me/{temp.U_NAME}?start=help")
             ],
             [
-                InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez')
+                InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/WONDERMOVI')
             ]
             ]
         reply_markup=InlineKeyboardMarkup(buttons)
@@ -55,7 +55,7 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>Hey ♥️ {u.mention}, Welcome to {message.chat.title}🙂</b>")
+            temp.MELCOW['welcome'] = await message.reply(f"<b>Hey ♥️ {u.mention}, Welcome to {message.chat.title}🙂.Please Join our OTT & DVD update channel:- @WONDERMOVI. And Join here for New Movie :- https://t.me/+4tjC4rupa4xiMmQ1</b>")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
