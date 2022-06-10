@@ -5,7 +5,7 @@
   <b>-BLACKADAM-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
 </h1>
 
-<a href="https://gfycat.com/gifs/search/funny+cartoon">
+<a href="https://thumbs.gfycat.com/AggressivePoliteAmericanwarmblood-size_restricted.gif">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
