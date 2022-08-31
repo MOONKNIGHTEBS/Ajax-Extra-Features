@@ -8,5 +8,5 @@ else
 fi
 cd /Ajax
 pip3 install -U -r requirements.txt
-echo "Starting 乃ㄥ卂匚Ҝ卂ᗪ卂爪....🔥"
+echo "Starting 乃ㄥ卂匚Ҝ卂ᗪ卂爪....😈🔥"
 python3 bot.py
